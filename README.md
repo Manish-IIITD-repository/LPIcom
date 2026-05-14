@@ -12,6 +12,8 @@ Singh, H., Srivastava, H. K., & Raghava, G. P. S. (2016).
 **A web server for analysis, comparison and prediction of protein ligand binding sites.** *Biology Direct*, 11, 14. 
 [https://doi.org/10.1186/s13062-016-0118-5](https://doi.org/10.1186/s13062-016-0118-5)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20097695)
+
 ---
 
 ## About the Platform
