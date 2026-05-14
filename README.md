@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **LPIcom**, a comprehensive web server designed to facilitate the understanding of protein-ligand interactions. As understanding how proteins interact with a wide range of ligands is a major challenge in systems biology, LPIcom provides tools to analyze, compare, and predict interacting residues for over 800 different ligands.
 
-**Web Server:** [http://crdd.osdd.net/raghava/lpicom/](http://crdd.osdd.net/raghava/lpicom/)(webs.iiitd.edu.in/raghava/lpicom)
+**Web Server:** [http://crdd.osdd.net/raghava/lpicom/](http://crdd.osdd.net/raghava/lpicom/)(https://webs.iiitd.edu.in/raghava/lpicom)
 
 ---
 
